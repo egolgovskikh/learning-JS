@@ -18,5 +18,3 @@ const budgetPerDay = appData.budget / 30;
 
 alert(budgetPerDay);
 console.log(appData);
-
-12
